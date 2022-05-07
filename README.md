@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Fathi El-Sebaey Gober</h1>
 <h3 align="center">A Passionate Frontend Developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa142" alt="mostafa142" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mos__tafa_1" target="blank"><img src="https://img.shields.io/twitter/follow/mos__tafa_1?logo=twitter&style=for-the-badge" alt="mos__tafa_1" /></a> </p>
 
 - 🌱 I’m currently learning **React Js**
 
