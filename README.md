@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mostafa Fathi</h1>
-<h3 align="center">Senior Student at Faculty of computers & information, Menoufia University</h3>
 <h3 align="center">Front-End Developer (Freelancer) at Upwork</h3>
 
 <br>
