@@ -10,7 +10,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://mostafa142.github.io/MyPortfolio/](https://mostafa142.github.io/MyPortfolio/)
 
